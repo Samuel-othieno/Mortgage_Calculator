@@ -57,7 +57,6 @@ public class Methods {
                 System.out.println("Something went wrong. Please try again");
                 scanner.nextLine();
             }
-
         }
     }
 
